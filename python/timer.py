@@ -16,7 +16,7 @@ Repeat for each exercise and for each set
 
 Example:
 
-Exercises: "push ups", "burpees"
+Exercises: "push ups", "burpees", "pull ups", "sprints"
 Time Limit: 60
 Break Time: 10
 Sets: 2
